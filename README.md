@@ -48,3 +48,4 @@ cd vapoursynth-editor/pro
 qmake pro.pro
 make
 ```
+Binaries can now be found in `../build`.
